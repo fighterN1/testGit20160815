@@ -3,6 +3,8 @@
 function GitAdd(){
 	var a="asfasf";
 	var b="asfasf";
+	111111
+	2222
 	};
 function initConsole(){
 	window.console=function(){}
