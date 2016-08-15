@@ -5,6 +5,7 @@ function GitAdd(){
 	var b="asfasf";
 	111111
 	2222
+	bbbb
 	};
 function initConsole(){
 	window.console=function(){}
