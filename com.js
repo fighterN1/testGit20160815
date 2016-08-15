@@ -1,5 +1,6 @@
 //如果不存在(ie7,8,9)console
 //if(!window.console){window.console=function(){};console.log=function(){}						}
+function GitAdd(){aaaaa};
 function initConsole(){
 	window.console=function(){}
     console.log=function(){}
