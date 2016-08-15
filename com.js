@@ -2,6 +2,7 @@
 //if(!window.console){window.console=function(){};console.log=function(){}						}
 function GitAdd(){
 	var a="asfasf";
+	var b="asfasf";
 	};
 function initConsole(){
 	window.console=function(){}
